@@ -1,1 +1,1 @@
-# Olá pessoal, sintam se livres caso quiserem alterar a página inicial daqui
+# Essa aqui é nossa organização, é tipo uma conta no github que todos podem alterar
