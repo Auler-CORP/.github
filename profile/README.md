@@ -1,11 +1,12 @@
 ## Setup
 ### Arquitetura windows
-No php.ini, descomentar a linha ;extension=zip
+1º No php.ini, descomentar a linha ;extension=zip
 <br> 
-Instalar composer 
-composer create-project laravel/laravel example-app
+2º Instalar composer 
+<br>
+3º composer create-project laravel/laravel example-app
 <br> 
-php artisan serve
+4º php artisan serve
 http://localhost:8000
 
 ## GIT - COMANDOS ÚTEIS
